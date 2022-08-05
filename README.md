@@ -1,6 +1,8 @@
 ## Hi there 👋 I'am J.Gabriela Mendes!!
 
-- 🌱 I’m currently learning Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
+- 🌱 I just finished the Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
+
+- 🔭 I’m currently learning Full Stack Web development With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!! 
 
 - 📫 How to reach me: jeicarm7@gmail.com🤖
 
