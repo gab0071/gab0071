@@ -2,7 +2,7 @@
 
 - ✅ I just finished the Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
 
-- 🌱  I’m currently learning Full Stack Web development With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!! 
+- 💥Currently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!!
 
 - 📫 How to reach me: catellatech@gmail.com🤖
 
