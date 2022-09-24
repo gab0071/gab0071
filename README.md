@@ -16,11 +16,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="58%" display="block" src="https://github-readme-stats.vercel.app/api?username=gab0071&show_icons=true&theme=radical&border_radius=15px" />
 </a>
+</hr>
 
-
-<hr>
 ## Connect with me:
-
 <a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
