@@ -11,7 +11,9 @@
 
 I'm 24 years old and my journey in this lovely challenging world is just beginning✨🤟🏽
 
-![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab0071&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab0071)](https://github.com/anuraghazra/github-readme-stats) 
+![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab0071&show_icons=true&theme=radical) 
 
 ### 📸 [[Instagram]](https://instagram.com/catellatech)
 
