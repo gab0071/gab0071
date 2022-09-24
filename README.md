@@ -11,11 +11,26 @@
 
 I'm 24 years old and my journey in this lovely challenging world is just beginning✨🤟🏽
 
+### Connect with me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab0071)](https://github.com/anuraghazra/github-readme-stats) 
-![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab0071&show_icons=true&theme=radical) 
+<a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
+</a>
 
-### 📸 [[Instagram]](https://instagram.com/catellatech)
+<a href="https://discord.gg/XTW52Kt" rel="nofollow">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+</a>
+
+<a href="https://twitter.com/abhisheknaiidu" rel="nofollow">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+</a>
+
+<a href="https://www.linkedin.com/in/abhisheknaiidu/" rel="nofollow">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+</a>
+
+
+<br />
 
 <!--
 **gab0071/gab0071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
