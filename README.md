@@ -5,7 +5,7 @@
 - 💥Currently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!!
 
 
-<h3>Programming Languages & Technologie</h3>
+<h3>Programming Languages & Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
