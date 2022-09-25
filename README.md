@@ -48,7 +48,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 
 ## How to reach me:
-<a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
+<a href="https://www.instagram.com/itsgabmendes/" rel="nofollow">
   <img align="left" alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
 
@@ -56,11 +56,11 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
   <img align="left" alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://twitter.com/abhisheknaiidu" rel="nofollow">
+<a href="https://twitter.com/gabmendez_" rel="nofollow">
   <img align="left" alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/" rel="nofollow">
+<a href="https://www.linkedin.com/in/gabriela-mendes-365b4a178" rel="nofollow">
   <img align="left" alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
