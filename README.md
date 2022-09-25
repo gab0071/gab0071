@@ -1,4 +1,4 @@
-## Hi, Gabriela Mendes here 👋🏼
+## Hi, I'm Gabriela Mendes 👋🏼
 
 - ✅ I just finished the Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
 
