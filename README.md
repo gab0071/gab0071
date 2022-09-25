@@ -60,6 +60,10 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
+ <a href="mailto:jhoanburbano@unicauca.edu.co">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
 
 <br />
 
