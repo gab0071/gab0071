@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: catellatech@gmail.com🤖
 
-<h2>Programming Languages</h2>
+<h3>Programming Languages & Technologie</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=414141">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
 ### Github Stats
@@ -26,6 +29,19 @@
     
    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=radical&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
+
+### Performance of the week
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   11 hrs 47 mins  █████████████████████▓░░░   75.74 % 
+CSS          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Solidity     5  hr           ▒░░░░░░░░░░░░░░░░░░░░░░░░   5.11 % 
+jquery       7 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   7.95 % 
+Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+```
+<!--END_SECTION:waka-->
+
 
 ## Connect with me:
 <a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
