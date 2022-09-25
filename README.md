@@ -52,11 +52,11 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
   <img align="left" alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
 
-<a href="https://discord.gg/XTW52Kt" rel="nofollow">
+<a href="https://discord.gg/gabmendezz#2396" rel="nofollow">
   <img align="left" alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://twitter.com/gabmendez_" rel="nofollow">
+<a href="https://twitter.com/_gabmendez" rel="nofollow">
   <img align="left" alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
