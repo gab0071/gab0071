@@ -4,7 +4,6 @@
 
 - 💥Currently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!!
 
-- 📫 How to reach me: catellatech@gmail.com🤖
 
 <h3>Programming Languages & Technologie</h3>
 <p>
@@ -48,7 +47,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gab0071&repo=hardhat-erc20&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/gab0071/hardhat-erc20)
 
 
-## Connect with me:
+## How to reach me:
 <a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
   <img align="left" alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
@@ -65,7 +64,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
   <img align="left" alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
- <a href="mailto:jhoanburbano@unicauca.edu.co">
+ <a href="mailto:catellatech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
