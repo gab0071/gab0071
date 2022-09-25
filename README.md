@@ -42,22 +42,27 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+### Repositorios TOP
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gab0071&repo=mid-project&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/gab0071/mid-project)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gab0071&repo=hardhat-erc20&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/gab0071/hardhat-erc20)
+
 
 ## Connect with me:
 <a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
+  <img align="left" alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
 
 <a href="https://discord.gg/XTW52Kt" rel="nofollow">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+  <img align="left" alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 </a>
 
 <a href="https://twitter.com/abhisheknaiidu" rel="nofollow">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
 <a href="https://www.linkedin.com/in/abhisheknaiidu/" rel="nofollow">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  <img align="left" alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
  <a href="mailto:jhoanburbano@unicauca.edu.co">
