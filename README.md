@@ -66,7 +66,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
   <img align="left" alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
- <a href="mailto:catellatech@gmail.com">
+ <a href="mailto:jeicarm7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
