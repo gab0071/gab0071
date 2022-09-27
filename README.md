@@ -62,7 +62,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
   <img align="left" alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://www.linkedin.com/in/gabriela-mendes-365b4a178" rel="nofollow">
+<a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/" rel="nofollow">
   <img align="left" alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
