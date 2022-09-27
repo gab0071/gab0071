@@ -31,23 +31,6 @@
    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=radical&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
 
-### Performance of the week
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   11 hrs 47 mins  █████████████████████▓░░░   75.74 % 
-CSS          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Solidity     5  hr           ▒░░░░░░░░░░░░░░░░░░░░░░░░   5.11 % 
-jquery       7 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   7.95 % 
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-```
-<!--END_SECTION:waka-->
-
-### Repositorios TOP
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gab0071&repo=mid-project&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/gab0071/mid-project)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gab0071&repo=hardhat-erc20&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/gab0071/hardhat-erc20)
-
 
 ## How to reach me:
 <a href="https://www.instagram.com/itsgabmendes/" rel="nofollow">
