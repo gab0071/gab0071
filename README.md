@@ -1,21 +1,12 @@
 # Hi, I'm Gabriela Mendes 👋🏼
 
-<p style="justify-content: justify"> I'm passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology and hopefully in your company. </p>
+<h3>I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </h3>
 
-
-<p style="justify-content: justify">I am a person very committed to what I want, always looking for new challenges in a company where I can add value from my experience and knowledge within the web3 space. Always willing to learn and teach for collective growth.</p>
-
-
-<p style="justify-content: justify">I firmly believe that change begins within oneself, since I became interested in blockchain technology and all the positive opportunities it can give our society, I began to study it, to understand it, to build projects.</p>
-
-<p style="justify-content: justify">Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.</p>
+<h3>I have worked on projects, from creating an ERC20 token, to a dapp, using technologies such as hardhat, ethersjs, remix, etherscan, alchemy rpc, among others... All these projects were carried out in the academic field, with the help of FreeCodeCamp with @PatrickAlphaC and the web3 community 🎉. I have overcome challenges like CryptoZombie to continue strengthening my skills Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.📶 </h3>
 
 <br>
 
-
-- ✅ I just finished the Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
-
-- 💥Currently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a fullstack developer!!
+<h4> 💥Currently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a fullstack developer!! </h4>
 
 
 <h3>Programming Languages & Technologies</h3>
@@ -46,7 +37,7 @@
 
 
 ## How to reach me: 
-<p>I'm excited I get to build, learn, and create! Feel free to message me: </p> 
+<h4>I'm excited I get to build, learn, and create! Feel free to message me: </h4> 
 
 <a href="https://www.instagram.com/itsgabmendes/" rel="nofollow">
   <img align="left" alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
