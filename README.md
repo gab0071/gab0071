@@ -7,7 +7,7 @@
 <h3> 💥Currently I was accepted to study the Fulltack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a fullstack developer!! </h3>
 
 
-<h3>Programming Languages & Technologies</h3>
+## Programming Languages & Technologies
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
 </p>
 
-### Github Stats
+## Github Stats
 
 <table>
   <tr>
