@@ -1,15 +1,16 @@
 # Hi, I'm Gabriela Mendes 👋🏼
-<p> I'm passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology and hopefully in your company. </p>
+
+<p style="justify-content: justify"> I'm passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology and hopefully in your company. </p>
 
 
-<p>I am a person very committed to what I want, always looking for new challenges, in a company where I can add value from my experience and knowledge within the web3 space. Always willing to learn and teach for collective growth.</p>
+<p style="justify-content: justify">I am a person very committed to what I want, always looking for new challenges, in a company where I can add value from my experience and knowledge within the web3 space. Always willing to learn and teach for collective growth.</p>
 
 
-<p>I firmly believe that change begins within oneself, since I became interested in blockchain technology and all the positive opportunities it can give our society, I began to study it, to understand it, to build projects.</p>
+<p style="justify-content: justify">I firmly believe that change begins within oneself, since I became interested in blockchain technology and all the positive opportunities it can give our society, I began to study it, to understand it, to build projects.</p>
 
-<p>Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.</p>
+<p style="justify-content: justify">Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.</p>
 
-<hr>
+<br>
 
 
 - ✅ I just finished the Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
