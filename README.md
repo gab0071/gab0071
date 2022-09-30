@@ -37,27 +37,28 @@
 
 
 ## How to reach me: 
-<h3>I'm excited I get to build, learn, and create! Feel free to message me: </h3> 
-
+<h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3> 
+<div align="center">
 <a href="https://www.instagram.com/itsgabmendes/" rel="nofollow">
-  <img align="left" alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
+  <img alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
 
 <a href="https://discord.gg/gabmendezz#2396" rel="nofollow">
-  <img align="left" alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+  <img  alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 </a>
 
 <a href="https://twitter.com/_gabmendez" rel="nofollow">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+  <img alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
 <a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/" rel="nofollow">
-  <img align="left" alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  <img alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
  <a href="mailto:jeicarm7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+ </div>
 
 
 <br />
