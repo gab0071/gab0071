@@ -1,4 +1,4 @@
-<h1 align="center"><strong> Hi, I'm Gabriela Mendes 👋🏼 </strong></h1>
+0<h1 align="center"><strong> Hi, I'm Gabriela Mendes 👋🏼 </strong></h1>
  
 <p align="justify">I am passionate about <strong>blockchain technology </strong> and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </p>
 
