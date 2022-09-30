@@ -1,15 +1,15 @@
-0<h1 align="center"><strong> Hi, I'm Gabriela Mendes 👋🏼 </strong></h1>
+<h1 align="center"><strong> Hi, I'm Gabriela Mendes 👋🏼 </strong></h1>
  
-<p align="justify">I am passionate about <strong>blockchain technology </strong> and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </p>
+<p align="justify"><strong>I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </strong></p>
 
-<p align="justify">I have worked on projects, from creating an <strong> ERC20 token, to a dapp, using technologies such as hardhat, ethersjs, remix, etherscan, alchemy rpc, among others </strong>... All these projects were carried out in the academic field, with the help of <strong>FreeCodeCamp with @PatrickAlphaC and the web3 community </strong> 🎉. </p>
+<p align="justify"><strong>I have worked on projects, from creating an <strong> ERC20 token, to a dapp, using technologies such as hardhat, ethersjs, remix, etherscan, alchemy rpc, among others... All these projects were carried out in the academic field, with the help of FreeCodeCamp with @PatrickAlphaC and the web3 community </strong> 🎉. </p>
 
 <p align="justify"><strong>I have overcome challenges like CryptoZombie to continue strengthening my skills Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.📶 </strong></p>
 
-<p align="justify"> 💥Currently I was accepted to study the <strong>Fullstack development career</strong> in the bootcamp with https://github.com/soyHenry to strong>improving my skills in this space, and become a fullstack developer</strong>!! </p>
+<p align="justify"> <strong>💥Currently I was accepted to study the <strong>Fullstack development career in the bootcamp with https://github.com/soyHenry to strong>improving my skills in this space, and become a fullstack developer</strong>!! </p>
 
 
-## Programming Languages & Technologies
+## **Programming Languages & Technologies**
 <p align="justify">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
