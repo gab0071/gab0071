@@ -44,13 +44,13 @@
 <h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3> 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/" rel="nofollow">
+  <img alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+</a>
+
 
 <a href="https://twitter.com/_gabmendez" rel="nofollow">
   <img alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-</a>
-
-<a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/" rel="nofollow">
-  <img alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
  <a href="mailto:jeicarm7@gmail.com">
