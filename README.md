@@ -8,6 +8,7 @@
 
 <p align="justify"> <strong>💥Currently I was accepted to study the <strong>Fullstack development career in the bootcamp with https://github.com/soyHenry to strong>improving my skills in this space, and become a fullstack developer</strong>!! </p>
 
+<p><strong> 🎯 2022 Goals: Learn more about web3. </strong></p>
 
 
 <h2 align="center"><strong> Programming Languages & Technologies 📚🛠</strong></h2>
@@ -42,13 +43,7 @@
 <h2 align="center"> How to reach me 📫</h2> 
 <h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3> 
 <div align="center">
-<a href="https://www.instagram.com/itsgabmendes/" rel="nofollow">
-  <img alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
-</a>
 
-<a href="https://discord.gg/gabmendezz#2396" rel="nofollow">
-  <img  alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-</a>
 
 <a href="https://twitter.com/_gabmendez" rel="nofollow">
   <img alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
