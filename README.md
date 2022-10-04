@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center"><strong> Hi, I'm Gabriela Mendes 👋🏼 </strong></h1>
+<h1 align="center"><strong> Hi, I'm Gabriela Mendes <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></strong></h1>
  
 <p align="justify"><strong>I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </strong></p>
  
@@ -59,7 +59,7 @@
   <img height="25" width="98" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gabmende" style="max-width: 100%;"></a>
 
  <a href="mailto:jeicarm7@gmail.com">
-    <img height="23" width="98" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeicarm7@gmail.com">
+    <img height="23" width="95" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeicarm7@gmail.com">
   </a>
 </p>                                      
 </div>
