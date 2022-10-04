@@ -36,7 +36,7 @@
 </table>
 
 
-<h2 align="center"> How to reach me: </h2> 
+<h2 align="center"> How to reach me 📫</h2> 
 <h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3> 
 <div align="center">
 <a href="https://www.instagram.com/itsgabmendes/" rel="nofollow">
