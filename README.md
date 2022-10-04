@@ -30,9 +30,9 @@
 
 <table align="center">
   <tr>
- <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab0071&theme=dark&card_width=450em)](https://github.com/anuraghazra/github-readme-stats"/></td>
+ <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab0071&theme=blue-green&card_width=450em)](https://github.com/anuraghazra/github-readme-stats"/></td>
     
-   <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=dark&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
+   <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=blue-green&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
 
 
