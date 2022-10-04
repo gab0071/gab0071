@@ -1,3 +1,8 @@
+<p>
+  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
+</p>
+
+
 <h1 align="center"><strong> Hi, I'm Gabriela Mendes 👋🏼 </strong></h1>
  
 <p align="justify"><strong>I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </strong></p>
