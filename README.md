@@ -62,6 +62,9 @@
 <a href="https://t.me/gabmende">
   <img align="center" alt="Ajay's Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="mailto:jeicarm7@gmail.com">
+  <img align="center" alt="Ajay's Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>   
 </p>                                      
 </div>
 
