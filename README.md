@@ -1,7 +1,7 @@
 <h1 align="center"><strong> Hi, I'm Gabriela Mendes 👋🏼 </strong></h1>
  
 <p align="justify"><strong>I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </strong></p>
-
+ 
 <p align="justify"><strong>I have worked on projects, from creating an <strong> ERC20 token, to a dapp, using technologies such as hardhat, ethersjs, remix, etherscan, alchemy rpc, among others... All these projects were carried out in the academic field, with the help of FreeCodeCamp with @PatrickAlphaC and the web3 community </strong> 🎉. </p>
 
 <p align="justify"><strong>I have overcome challenges like CryptoZombie to continue strengthening my skills Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.📶 </strong></p>
@@ -44,17 +44,18 @@
 <h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3> 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/" rel="nofollow">
-  <img alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+ <a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/"><img height="35" width="100" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blockchain-gabriela-mendes/"></a>
+
+<a href="https://api.whatsapp.com/send?phone=573134854983&text=hello!" rel="nofollow">
+  <img height="35" width="100" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!" style="max-width: 100%;">
 </a>
 
-
-<a href="https://twitter.com/_gabmendez" rel="nofollow">
-  <img alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+<a href="https://t.me/gabmende" rel="nofollow">
+  <img height="35" width="100" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gabmende" style="max-width: 100%;">
 </a>
 
  <a href="mailto:jeicarm7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img height="35" width="100" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeicarm7@gmail.com">
   </a>
  </div>
 
