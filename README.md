@@ -50,18 +50,16 @@
 <div align="center">
 
  <p align="center">
- <a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/"><img height="35" width="110" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blockchain-gabriela-mendes/"></a>
+ <a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/"><img height="25" width="100" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blockchain-gabriela-mendes/"></a>
 
 <a href="https://api.whatsapp.com/send?phone=573134854983&text=hello!" rel="nofollow">
-  <img height="35" width="110" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573134854983&text=hello!!"></a>
-  
- </p>
-<p align="center">
+  <img height="25" width="110" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573134854983&text=hello!!"></a>
+
 <a href="https://t.me/gabmende" rel="nofollow">
-  <img height="35" width="110" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gabmende" style="max-width: 100%;"></a>
+  <img height="25" width="98" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gabmende" style="max-width: 100%;"></a>
 
  <a href="mailto:jeicarm7@gmail.com">
-    <img height="35" width="110" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeicarm7@gmail.com">
+    <img height="23" width="98" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeicarm7@gmail.com">
   </a>
 </p>                                      
 </div>
