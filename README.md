@@ -9,7 +9,9 @@
 <p align="justify"> <strong>💥Currently I was accepted to study the <strong>Fullstack development career in the bootcamp with https://github.com/soyHenry to strong>improving my skills in this space, and become a fullstack developer</strong>!! </p>
 
 
-## **Programming Languages & Technologies**
+
+<h2 align="center"><strong> Programming Languages & Technologies 📚🛠</strong></h2>
+ 
 <p align="justify">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -26,7 +28,8 @@
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
 </p>
 
-## Github Stats
+
+<h2 align="center"><strong>Github Stats 📈</strong></h2>
 
 <table align="center">
   <tr>
