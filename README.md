@@ -1,7 +1,7 @@
-![image](https://cdn-images-1.medium.com/max/2600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
 
-
-<h1 align="center"><strong> Hi, I'm Gabriela Mendes <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></strong></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;...and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=680&height=100&duration=4000&pause=1000&size=40&color=6bf222">
+</h1>
  
 <p align="justify"><strong>I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </strong></p>
  
