@@ -1,6 +1,4 @@
-<p>
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
-</p>
+![image](https://cdn-images-1.medium.com/max/2600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
 
 
 <h1 align="center"><strong> Hi, I'm Gabriela Mendes <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></strong></h1>
