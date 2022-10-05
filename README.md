@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1000&size=40&color=f54414">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1050&size=40&color=3f358f">
 </h1>
  
 <p align="justify"><strong>I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </strong></p>
