@@ -2,16 +2,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1050&size=40&color=f53b07">
 </h1>
- 
-<p align="justify"><strong>I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓ </strong></p>
- 
-<p align="justify"><strong>I have worked on projects, from creating an <strong> ERC20 token, to a dapp, using technologies such as hardhat, ethersjs, remix, etherscan, alchemy rpc, among others... All these projects were carried out in the academic field, with the help of FreeCodeCamp with @PatrickAlphaC and the web3 community </strong> 🎉. </p>
-
-<p align="justify"><strong>I have overcome challenges like CryptoZombie to continue strengthening my skills Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.📶 </strong></p>
-
-<p align="justify"> <strong>💥Currently I was accepted to study the <strong>Fullstack development career in the bootcamp with https://github.com/soyHenry to improving my skills in this space, and become a fullstack developer</strong>!! </p>
-
-<p><strong> 🎯 2022 Goals: Learn more about web3. </strong></p>
+ <br>
+- 👀 I’m interested in the web3 space and all the innovation there.
+- 🌱 I’m currently learning Solidity and good practices for smart-contracts security.
+- 💞️ I’m looking to collaborate on startups which wanna change the life of our society with help blockchain tech.
+- 🎯 2022 Goals: Keeping learning more about web3.
 
 
 <h2 align="center"><strong> Programming Languages & Technologies 📚🛠</strong></h2>
