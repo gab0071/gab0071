@@ -9,9 +9,10 @@
 <li>- 💞️ I’m looking to collaborate on startups which wanna change the life of our society with help blockchain tech. </li>
 <li>- 🎯 2022 Goals: Keeping learning more about web3. </li>
 </ul>
+<br>
 
 <h2 align="center"><strong> Programming Languages & Technologies 📚🛠</strong></h2>
- 
+ <br>
 <p align="justify">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -28,6 +29,7 @@
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
 </p>
 
+<br>
 
 <h2 align="center"><strong>Github Stats 📈</strong></h2>
 
@@ -38,7 +40,7 @@
    <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=aura&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
 
-
+<br>
 <h2 align="center"> How to reach me 📫</h2> 
 <h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3> 
 <div align="center">
