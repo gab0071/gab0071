@@ -11,7 +11,7 @@
 
 <p align="justify"><strong>I have overcome challenges like CryptoZombie to continue strengthening my skills Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.📶 </strong></p>
 
-<p align="justify"> <strong>💥Currently I was accepted to study the <strong>Fullstack development career in the bootcamp with https://github.com/soyHenry to strong>improving my skills in this space, and become a fullstack developer</strong>!! </p>
+<p align="justify"> <strong>💥Currently I was accepted to study the <strong>Fullstack development career in the bootcamp with https://github.com/soyHenry to improving my skills in this space, and become a fullstack developer</strong>!! </p>
 
 <p><strong> 🎯 2022 Goals: Learn more about web3. </strong></p>
 
