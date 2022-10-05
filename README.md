@@ -1,13 +1,14 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1050&size=40&color=f53b07">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1050&size=40&color=030303">
 </h1>
  <br>
-- 👀 I’m interested in the web3 space and all the innovation there.
-- 🌱 I’m currently learning Solidity and good practices for smart-contracts security.
-- 💞️ I’m looking to collaborate on startups which wanna change the life of our society with help blockchain tech.
-- 🎯 2022 Goals: Keeping learning more about web3.
-
+<ul>
+<li>- 👀 I’m interested in the web3 space and all the innovation there.</li>
+<li>- 🌱 I’m currently learning Solidity and good practices for smart-contracts security. </li>
+<li>- 💞️ I’m looking to collaborate on startups which wanna change the life of our society with help blockchain tech. </li>
+<li>- 🎯 2022 Goals: Keeping learning more about web3. </li>
+</ul>
 
 <h2 align="center"><strong> Programming Languages & Technologies 📚🛠</strong></h2>
  
