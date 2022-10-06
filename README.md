@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1050&size=40&color=7d38f5">
 </h1>
  <br>
-<ul>
+
+<ul align="center">
 <li>- 👀 I’m interested in the web3 space and all the innovation there.</li>
 <li>- 🌱 I’m currently learning Solidity and good practices for smart-contracts security. </li>
 <li>- 💞️ I’m looking to collaborate on startups which wanna change the life of our society with help blockchain tech. </li>
