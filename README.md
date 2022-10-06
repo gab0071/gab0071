@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1050&size=40&color=7d38f5&font=Silkscreen">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1050&size=40&color=7d38f5&font=Pacifico">
 </h1>
  <br>
 
