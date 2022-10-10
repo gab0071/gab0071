@@ -49,7 +49,7 @@
 
  <p align="center">
 <a href="https://twitter.com/_gabmendez">
-  <img align="center" alt="Ajay's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Ajay's Twitter" width="32px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/">
   <img align="center" alt="Ajay's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
