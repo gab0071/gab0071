@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+blockchain+tech!;and+welcome+to+my+Github!;&font=Fira%10Code&center=true&width=1100&height=120&duration=4000&pause=1050&size=40&color=bbc437&font=Press Start 2P">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela;I+love+blockchain+tech!;and+welcome+to+my+Github!;&font=Fira%10Code&center=true&width=1100&height=120&duration=4000&pause=1050&size=40&color=97fa0c&font=Press Start 2P">
 </h1>
  <br>
 
@@ -13,6 +13,7 @@
 </ul>
 <br>
 
+<!-- 
 <h2 align="center"><strong> Programming Languages & Technologies 📚🛠</strong></h2>
  <br>
 <p align="justify">
@@ -33,6 +34,7 @@
 
 <br>
 
+
 <h2 align="center"><strong>Github Stats 📈</strong></h2>
 
 <table align="center">
@@ -41,6 +43,7 @@
     
    <td valign="center"><img  src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=aura&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
+-->
 
 <br>
 <h2 align="center"> How to reach me 📫</h2> 
