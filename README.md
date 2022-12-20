@@ -6,7 +6,6 @@
 
 <ul aling="justify">
 <li> 👀 I’m interested in the web3 space and all the innovation there.</li>
-<li> 🌱 I’m currently learning Solidity and good practices for smart-contracts security. </li>
 <li> 💞️ I’m looking to collaborate on startups which wanna change the life of our society with help blockchain tech. </li>
 <li> ⚡ Fun fact: I love to entrepreneur, sports and meet passionate people.</li>
 <li> 🎯 2022 Goals: Keeping learning more about web3. </li>
