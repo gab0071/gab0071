@@ -30,7 +30,7 @@
 <div align="center">
 
  <p align="center">
-<a href="https://twitter.com/_gabmendez">
+<a href="https://twitter.com/0xgabit">
   <img align="center" alt="Ajay's Twitter" width="28px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/web3-gabriela-mendes/">
