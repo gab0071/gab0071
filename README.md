@@ -14,18 +14,18 @@
 <!-- <br> -->
 
 
-<!-- <h2 align="center"><strong>Github Stats 📈</strong></h2>
+<h2 align="center"><strong>Github Stats 📈</strong></h2>
 
 <table align="center">
   <tr>
  <td valign="top"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab0071&theme=chartreuse-dark&card_width=450em)](https://github.com/anuraghazra/github-readme-stats"/></td>
     
 <td valign="center"><img  src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=chartreuse-dark&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
-</table> -->
+</table>
 
 
-<!-- <br> -->
-<!-- <h2 align="center"> How to reach me 📫</h2> 
+<br>
+<h2 align="center"> How to reach me 📫</h2> 
 <h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3>  -->
 <div align="center">
 
