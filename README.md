@@ -10,7 +10,7 @@
 <li> 💞️ I’m looking to collaborate on startups which wanna change the life of our society with help blockchain tech. </li>
 <li> ⚡ Fun fact: I love to entrepreneur, sports and meet passionate people.</li>
 <li> 🎯 2022 Goals: Keeping learning more about web3. </li>
-</ul> -->
+</ul> 
 <!-- <br> -->
 
 
@@ -26,7 +26,7 @@
 
 <br>
 <h2 align="center"> How to reach me 📫</h2> 
-<h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3>  -->
+<h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3>  
 <div align="center">
 
  <p align="center">
@@ -50,8 +50,7 @@
 
 
 <br />
-
-<!--
+<!-- 
 **gab0071/gab0071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -65,4 +64,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 🖤 ...
--->
+ -->
