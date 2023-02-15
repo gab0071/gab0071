@@ -2,7 +2,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Gabriela;Full-stack+blockchain+developer;smart+contract+auditor;Always+learning+new+things&font=Petrona%20Code&center=true&width=940&height=45&color=97fa0c&vCenter=true&pause=1000&size=38" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Gabriela;Love+learning+new+things; Welcome+to+my+github&font=Petrona%20Code&center=true&width=940&height=45&color=97fa0c&vCenter=true&pause=1000&size=38" /></a>
 </p>
 
 ## About me 
@@ -30,7 +30,7 @@
 - [zkIgnite](https://minaprotocol.com/) | 🚧 **To Be Released**
 
 ## Programming Languages & Technologies
-- 🚀 **Solidity** | **Javascriop** | **Hardhat** | **Foudry** | 
+- 🚀 **Solidity** | **Javascript** | **Hardhat** | **Foudry** | 
 
 <!-- <ul aling="justify"> -->
 <!-- <li> 👀 I’m interested in the web3 space and all the innovation there.</li>
@@ -41,7 +41,7 @@
 <!-- <br> -->
 
 
-<h2 align="center"><strong>Github Stats 📈</strong></h2>
+<!-- <h2 align="center"><strong>Github Stats 📈</strong></h2>
 
 <table align="center">
   <tr>
@@ -49,7 +49,7 @@
     
 <td valign="center"><img  src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=chartreuse-dark&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
-
+ -->
 
 <br>
 <h2 align="center"> How to reach me 📫</h2> 
