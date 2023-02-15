@@ -5,6 +5,33 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Gabriela;Full-stack+blockchain+developer;smart+contract+auditor;Always+learning+new+things&font=Petrona%20Code&center=true&width=940&height=45&color=97fa0c&vCenter=true&pause=1000&size=38" /></a>
 </p>
 
+## About me 
+- 👋 Hi, I'm Gabriela.
+- 🚀 Web3 Builder | Solidity
+- 🔐 Security Researcher
+- 🌱 I'm currently learning and working as a auditor.
+- 🎯 2023 Goals: top 100 code4rena.
+- 📫 You can reach me on [Twitter](https://twitter.com/0xgabit) 
+
+## Web3 Security 
+
+### Audits
+
+- Warden at Code4rena | 🚧 **To Be Released**
+
+### Solidity CTF Solutions & Writeups
+
+- [Damn Vulnerable DeFi](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
+- [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
+
+### Bootcamps
+
+- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity**
+- [zkIgnite](https://minaprotocol.com/) | 🚧 **To Be Released**
+
+## Programming Languages & Technologies
+- 🚀 **Solidity** | **Javascriop** | **Hardhat** | **Foudry** | 
+
 <!-- <ul aling="justify"> -->
 <!-- <li> 👀 I’m interested in the web3 space and all the innovation there.</li>
 <li> 💞️ I’m looking to collaborate on startups which wanna change the life of our society with help blockchain tech. </li>
