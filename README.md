@@ -1,9 +1,9 @@
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- <p align="center">
+   Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Gabriela;Love+learning+new+things; Welcome+to+my+github&font=Petrona%20Code&center=true&width=940&height=45&color=97fa0c&vCenter=true&pause=1000&size=38" /></a>
-</p>
+</p> -->
 
 ## About me 
 - 👋 Hi, I'm Gabriela.
