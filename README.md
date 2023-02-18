@@ -30,7 +30,7 @@
 - [zkIgnite](https://minaprotocol.com/) | 🚧 **To Be Released**
 
 ## Programming Languages & Technologies
-- 🚀 **Solidity** | **Javascript** | **Hardhat** | **Foudry** | 
+- 🚀 **Solidity** | **Javascript** | **Hardhat** | **c** | 
 
 <!-- <ul aling="justify"> -->
 <!-- <li> 👀 I’m interested in the web3 space and all the innovation there.</li>
