@@ -21,8 +21,9 @@
 
 ### Solidity CTF Solutions & Writeups
 
-- [Damn Vulnerable DeFi](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
+- [Damn Vulnerable DeFi CTF](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
 - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
+- [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
 
 ### Bootcamps
 
