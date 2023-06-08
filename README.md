@@ -8,8 +8,8 @@
 ## About me 
 - 👋 Hi, I'm Gabi.
 - 🚀 Web3 Builder | Solidity
-- 🔐 Security Researcher
-- 🌱 I'm currently learning and working as a auditor.
+- 🔐 Smart Contract Security Researcher
+- 🌱 I'm currently working as a auditor.
 - 🎯 2023 Goals: top 100 code4rena.
 - 📫 You can reach me on [twitter](https://twitter.com/0xgabit) 
 
