@@ -17,7 +17,7 @@
 
 ### Audits
 
-- Warden at Code4rena | 🚧 **To Be Released**
+- Warden at Code4rena and Independent Smart Contract Security Researcher 
 
 ### Solidity CTF Solutions & Writeups
 
@@ -25,10 +25,6 @@
 - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
 - [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
 
-### Bootcamps
-
-- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity**
-- [zkIgnite](https://minaprotocol.com/) | 🚧 **To Be Released**
 
 ## Programming Languages & Technologies
 - 🚀 **Solidity** | **Javascript** | **Hardhat** | **Foundry** | 
