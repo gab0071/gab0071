@@ -6,7 +6,7 @@
 </p> -->
 
 ## About me 
-- 👋 Hi, I'm Gabriela.
+- 👋 Hi, I'm Gabi.
 - 🚀 Web3 Builder | Solidity
 - 🔐 Security Researcher
 - 🌱 I'm currently learning and working as a auditor.
