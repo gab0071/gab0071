@@ -48,7 +48,7 @@
 <a href="https://twitter.com/0xgabit">
   <img align="center" alt="Ajay's Twitter" width="28px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/web3-gabriela-mendes/">
+<a href="https://www.linkedin.com/in/web3-security-catellatech/">
   <img align="center" alt="Ajay's Linkdein" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/gab0071">
