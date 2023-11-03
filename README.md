@@ -11,7 +11,7 @@
 - 🔐 Smart Contract Security Researcher
 - 🌱 I'm currently working as a auditor.
 - 🎯 2023 Goals: top 100 code4rena.
-- 📫 You can reach me on [twitter](https://twitter.com/0xgabit) 
+- 📫 You can reach me on [twitter](https://twitter.com/0xcatellatech) 
 
 ## Web3 Security 
 
@@ -48,16 +48,13 @@
 <a href="https://twitter.com/0xgabit">
   <img align="center" alt="Ajay's Twitter" width="28px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/web3-security-catellatech/">
-  <img align="center" alt="Ajay's Linkdein" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://github.com/gab0071">
   <img align="center" alt="Ajay's Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/gabmende">
+<a href="https://t.me/catellatech">
   <img align="center" alt="Ajay's Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="mailto:jeicarm7@gmail.com">
+<a href="mailto:catellatech@gmail.com">
   <img align="center" alt="Ajay's Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>   
 </p>                                      
