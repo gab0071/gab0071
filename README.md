@@ -17,17 +17,13 @@
 
 ### Audits
 
-- Warden at Code4rena and Independent Smart Contract Security Researcher 
+- Warden at [Code4rena](https://code4rena.com/@catellatech) and Independent Smart Contract Security Researcher 
 
 ### Solidity CTF Solutions & Writeups
 
 - [Damn Vulnerable DeFi CTF](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
 - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
 - [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
-
-
-## Programming Languages & Technologies
-- 🚀 **Solidity** | **Javascript** | **Hardhat** | **Foundry** | 
 
 <!-- <ul aling="justify"> -->
 <!-- <li> 👀 I’m interested in the web3 space and all the innovation there.</li>
