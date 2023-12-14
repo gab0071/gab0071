@@ -11,7 +11,7 @@
 - 🔐 Smart Contract Security Researcher
 - 🌱 I'm currently working as a auditor.
 - 🎯 2023 Goals: top 100 code4rena.
-- 📫 You can reach me on [twitter](https://twitter.com/0xcatellatech) 
+- 📫 You can reach me on [twitter](https://twitter.com/catellatech) 
 
 ## Web3 Security 
 
