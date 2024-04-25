@@ -10,7 +10,7 @@
 - 🚀 Web3 Builder | Solidity
 - 🔐 Smart Contract Security Researcher
 - 🌱 I'm currently working as a auditor.
-- 🎯 2023 Goals: top 100 code4rena.
+- 🎯 2023 Goals: top 100 code4rena. ✔️
 - 📫 You can reach me on [twitter](https://twitter.com/catellatech) 
 
 ## Web3 Security 
@@ -41,13 +41,13 @@
 <div align="center">
 
  <p align="center">
-<a href="https://twitter.com/0xgabit">
+<a href="https://twitter.com/catellatech">
   <img align="center" alt="Ajay's Twitter" width="28px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/gab0071">
   <img align="center" alt="Ajay's Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/catellatech">
+<a href="https://t.me/zeroxmadmax">
   <img align="center" alt="Ajay's Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="mailto:catellatech@gmail.com">
